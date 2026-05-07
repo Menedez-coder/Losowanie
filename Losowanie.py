@@ -1,5 +1,5 @@
 import random
-#otwieramy plik
+
 plik = open("lista.txt", "r")
 try:
     dane = plik.read()
